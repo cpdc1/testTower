@@ -5,4 +5,5 @@
 - 4th function
 - 5th function
 - 7th function
+- 8th function
 - 9th function
