@@ -8,3 +8,4 @@
 - 8th function
 - B function
 - 9th function
+- A function
